@@ -1,2 +1,1 @@
-const tabs = $$(".tab-item");
-const panes = $$(".tab-pane");
+alert( "I'm JavaScript!" )
