@@ -1,4 +1,3 @@
-
 for (let i = 0; i < 3; i++) {
   setTimeout(() => {
     console.log(i);
@@ -7,5 +6,5 @@ for (let i = 0; i < 3; i++) {
 
 let sum = (a, b) => 
      a + b;
-let a = sum(2, 3)
-console.log(a);
+let cong = sum(2, 3)
+console.log(cong);
