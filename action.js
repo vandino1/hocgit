@@ -7,5 +7,5 @@ for (let i = 0; i < 3; i++) {
 
 let sum = (a, b) => 
      a + b;
-let a = sum(2, 3)
-console.log(a);
+let tong = sum(2, 3)
+console.log(tong);
